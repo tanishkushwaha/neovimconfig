@@ -8,6 +8,7 @@ return {
       "tailwindcss-language-server",
       "gopls",
       "golangci-lint",
+      "pyright",
     },
   },
 }
